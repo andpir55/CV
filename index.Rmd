@@ -78,7 +78,7 @@ Aside
 ================================================================================
 
 
-![logo](graph.png){width=100%}
+![logo](new_logo.png){width=100%}
 
 ```{r}
 # When in export mode the little dots are unaligned, so fix that. 
